@@ -13,7 +13,7 @@ class Factory {
     class func createSlots() -> [[Slot]] {
         
         let kNumberOfSlots = 3
-        let kNumberOfContainers = 3
+        let kNumberOfContainers = 4
         var slots: [[Slot]] = [] //create array of arrays
         
         // slots = [  [slot1, slot2, slot3],  [slot4, slot5, slot6],  [slot7, slot8, slot9]  ]
